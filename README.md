@@ -37,15 +37,12 @@ MBA in Operations Management | Experienced in ERP Support | Building portfolio p
 ## 📈 Current Focus
 - Building recruiter-ready portfolio projects in SQL, Python, and Excel
 - Expanding ERP automation and analytics workflows
-- Translating technical concepts into Tamil for teaching and accessibility
+- expanding automation on organisation to analysis.
 
----
 
-## 🔗 Connect With Me 
+
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/maniyarasan-durairasu-858873235)
-- [Email](mailto:maniyarasan.analytics@gmail.com)
+- [Email](mailto:maniyarasan19892@gmail.com)
 - [GitHub](https://github.com/maniyarasan-analytics)
-- [LinkedIn](https://www.linkedin.com/in/maniyarasan-durairasu-858873235)  
-- [Email](mailto:your.email@example.com)  
-- [Portfolio Projects](https://github.com/maniyarasan-analytics)
+- 
