@@ -42,7 +42,5 @@ MBA in Operations Management | Experienced in ERP Support | Building portfolio p
 
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/maniyarasan-durairasu-858873235)
-- [Email](mailto:maniyarasan19892@gmail.com)
 - [GitHub](https://github.com/maniyarasan-analytics)
 - 
